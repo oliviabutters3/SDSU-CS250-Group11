@@ -1,0 +1,106 @@
+﻿Title page
+
+
+Software title: Kili Trekker
+Team members: Alfredo Flores, Yunis Tamang, Olivia Butters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+System Description
+Brief overview of system:
+
+
+This software specification is about the Kili Trekker. The is a trek guiding system for the 
+Kilimanjaro National Park. The system’s main purpose is to work as a guide for the 
+trekkers through the many trails in the national parks. It also works as a notice board of
+sorts giving trekkers alerts on what is going on in the park. National parks cover a very 
+large area, so the system is there to make the rangers’ job easier and make the park 
+safer for trekkers. Further in this document it will contain the functional requirements,
+non-functional requirements and use cases.
+
+
+
+
+Software Architecture Overview
+
+
+Architectural diagram of all major components
+UML Class Diagram
+Description of classes
+Description of attributes
+Description of operations
+* descriptions should be detailed and specify data types, function interfaces, parameters, etc.
+
+
+Development plan and timeline 
+* (include all team member responsibilities; plan and timeline for releasing "make believe" software) 
+        Team Responsibilities: 
+Alfredo Flores: Lead Project Coordinator 
+* In charge of project management, distribution of responsibilities, tracking progress and making sure timelines as well as consumer needs are being met. Will create a development plan that will be carried out by the development team and communicate directly with the Tanzanian park rangers about specific implementations they need for the system.
+Olivia Butters: Research Team Lead
+* Main responsibilities will be to lead a team to conduct research on the Killiman trails. Needed data will consist of information on the physical trails, Tanzanian cell phone systems, weather tracking systems, possible threats as well as needed safety protocols. 
+Yunis Tamang: Senior Project Developer 
+* Will be in charge of leading a development team who will be responsible for the development of the code behind the software. The team will develop UI, security systems, database, and compatibility with the Tanzanian cell phone systems. Will also keep progress of project documentation throughout the development process. Lastly, the development team will conduct debugging as well as testing of the software before release.
+
+
+
+
+Timeline: The software release date will be 6 months from now. 
+* Month 1: Planning and research of project concept
+* Month 2: Early development of software, and early prototype
+* Month 3-4: Refining of prototype and debugging
+* Month 5-6: Completion and release of software.
+Partitioning of tasks
+Team member responsibilities
+
+
+
+
+Minimum 2 pages?
