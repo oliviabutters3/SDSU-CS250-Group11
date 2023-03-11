@@ -1,6 +1,6 @@
 # SDSU-CS250-Group11
 
-Alfredo Flores.
+Alfredo Flores
 Olivia Butters
 Yunis Tamang
 
