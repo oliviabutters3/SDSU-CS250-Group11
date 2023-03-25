@@ -1,7 +1,7 @@
 # SDSU-CS250-Group11
 
 Alfredo Flores
-Olivia Butters.
+Olivia Butters
 Yunis Tamang
 
 
